@@ -24,5 +24,3 @@ const deactivate = () =>{
     playerBlock.forEach(item => item.classList.remove('active'));
 };
 
-console.log(playerBlock);
-console.log(playerBtn);
